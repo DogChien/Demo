@@ -532,3 +532,8 @@ ul.nav{
 .footer p a:hover{
 	color: #008ed6;
 }
+#duke{
+	background-color:	#ADADAD;
+	height: 50px;
+	/*opacity:0.5;*/
+}
