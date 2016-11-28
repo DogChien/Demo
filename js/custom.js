@@ -4,11 +4,11 @@ jQuery(document).ready(function() {
     new WOW().init();
 
     //this code is for the gmap
-	 var map = new GMaps({
-        el: '#map',
-        lat: 25.007400,
-        lng: 121.461344
-      });
+	//  var map = new GMaps({
+  //       el: '#map',
+  //       lat: 25.007400,
+  //       lng: 121.461344
+  //     });
 
 
       //this code is for smooth scroll and nav selector
