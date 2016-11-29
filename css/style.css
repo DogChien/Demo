@@ -541,5 +541,6 @@ ul.nav{
 	width: 300px;
 }
 #facebook{
-	margin-top: 20%;
+	margin-top: 100px;
+	margin-right: -200px;
 }
