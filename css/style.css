@@ -108,8 +108,9 @@ ul.nav{
 }
 
 /*banner area*/
+
 .banner{
-	background: url(../images/123.jpg);
+	background: url(../images/999.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	overflow: hidden;
@@ -129,7 +130,7 @@ ul.nav{
 }
 .banner p{
 	font-size: 18px;
-	color: #999999;
+	color: #000;
 	margin-top: 25px;
 	line-height: 2;
 	font-weight: 600;
@@ -160,11 +161,11 @@ ul.nav{
 	margin-bottom: 105px;
 	font-weight: 600;
 }
-.banner-img{
+/*.banner-img{
 	position: relative;
-}
+}*/
 .banner img{
-	position: absolute;
+		position: absolute;
 	margin-top:125px;
 }
 
@@ -202,6 +203,22 @@ ul.nav{
 	font-size: 18px;
 	color: #000;
 	margin-bottom: 30px;
+}
+.news .slide{
+	width: 550px;
+	height: 300px;
+	margin-top: 100px;
+}
+
+.news h2{
+	font-size: 24px;
+	color: #000;
+}
+.news h3{
+	font-size: 26px;
+	color: #000;
+	margin-right: -5px;
+	/*margin-left: 100px;*/
 }
 /*details area*/
 .details-phone{
@@ -247,8 +264,9 @@ ul.nav{
 }
 
 /*pricing-slide area*/
+
 .pricing-slide{
-	background: url(../img/paralax.jpg);
+	background: url(../images/123.jpg);
 	background-repeat: no-repeat;
 	background-position: fixed;
 	-webkit-background-size: cover;
@@ -541,6 +559,11 @@ ul.nav{
 	width: 300px;
 }
 #facebook{
-	margin-top: 100px;
-	margin-right: -200px;
+	margin-top: 10px;
+	margin-left: 80px;
+}
+#D{
+	height: 250px;
+	width: 500px;
+	margin-bottom: 100px;
 }
